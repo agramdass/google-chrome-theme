@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [0, 0, 0],
+      "frame_inactive": [0, 0, 0],
+      "toolbar": [0, 0, 0],
+      "background_tab": [99, 99, 99],
+      "background_tab_inactive": [99, 99, 99],
+      "background_tab_incognito": [99, 99, 99],
+      "background_tab_incognito_inactive": [99, 99, 99],
+      "tab_text": [238, 238, 238],
+      "tab_background_text": [173, 173, 173],
+      "bookmark_text": [238, 238, 238],
+      "ntp_background": [64, 69, 82],
+      "ntp_text": [238, 238, 238],
+      "button_background": [0, 0, 0, 1]
+    },
+    "tints": { "buttons": [0.61, 0.22, 0.59] },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+  "name": "Ashley's Custom Theme",
+  "version": "1",
+  "description": ""
+}
